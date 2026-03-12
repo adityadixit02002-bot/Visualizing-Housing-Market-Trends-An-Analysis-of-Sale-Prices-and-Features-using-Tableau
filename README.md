@@ -5,7 +5,6 @@
 Welcome to the **Visualizing Housing Market Trends** project! This repository contains an end-to-end data analysis, visualization, and web integration project designed to extract, process, and beautifully display housing market data. 
 
 ## 🌐 Live Demo & Demonstration
-* **Live Web Interface:** [Explore the Interactive Dashboard](https://ojasvsingh71.github.io/Visualizing-Housing-Market-Trends/Web%20Integration/index.html)
 * **Project Walkthrough:** [Watch the End-to-End Demo Video]([https://drive.google.com/file/d/14Sj3HztaZISR2XMOXYXaKkhSXGWFX1fU/view?usp=sharing](https://drive.google.com/file/d/1Z4u0o07Xyx3bva-ZTL-_m55NvC-xlmJf/view?usp=sharing)
 * **Documentation:** [Read the Documentation]([https://docs.google.com/document/d/1Imt7QXWJ7TstyxZiPdsfLPxhlVRp2QCYTw5vp-khYaI/edit?usp=sharing](https://docs.google.com/document/d/1FBoggC8QmgDlGjgZF1fCVz09Z_QCAcVelxNUQeCt4kA/edit?usp=sharing)
 
