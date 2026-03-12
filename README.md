@@ -17,8 +17,8 @@ This project was developed collaboratively, divided into key Agile Epics. Below 
 
 * **Akansha Tyagi** * *Data Collection & Extraction:* Responsible for sourcing, collecting, and loading the initial dataset from the database.
 * **Akriti Jain** * *Data Preparation & Visualization:* Handled data cleaning, ensuring high-quality inputs. Designed the responsive dashboard and generated unique visualizations. Authored the step-by-step project documentation.
-* **Akansha Sharma** * *Web Integration & Storyboard:* Designed the data storyboard, handled web publishing, and embedded the dashboard and stories into a UI using Flask.
-* **Aditya Narayan Dixit** * *Performance Testing:* Conducted testing on the amount of data loaded, utilization of filters, and the rendering performance of visualizations and graphs.
+* **Aditya Narayan Dixit** * *Web Integration & Storyboard:* Designed the data storyboard, handled web publishing, and embedded the dashboard and stories into a UI using Flask.
+* **Akansha sharma** * *Performance Testing:* Conducted testing on the amount of data loaded, utilization of filters, and the rendering performance of visualizations and graphs.
 
 ## 🚀 Project Roadmap & Epics
 
