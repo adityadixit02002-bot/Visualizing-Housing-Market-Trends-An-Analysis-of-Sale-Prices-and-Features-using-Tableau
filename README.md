@@ -6,8 +6,8 @@ Welcome to the **Visualizing Housing Market Trends** project! This repository co
 
 ## 🌐 Live Demo & Demonstration
 * **Live Web Interface:** [Explore the Interactive Dashboard](https://ojasvsingh71.github.io/Visualizing-Housing-Market-Trends/Web%20Integration/index.html)
-* **Project Walkthrough:** [Watch the End-to-End Demo Video](https://drive.google.com/file/d/14Sj3HztaZISR2XMOXYXaKkhSXGWFX1fU/view?usp=sharing)
-* **Documentation:** [Read the Documentation](https://docs.google.com/document/d/1Imt7QXWJ7TstyxZiPdsfLPxhlVRp2QCYTw5vp-khYaI/edit?usp=sharing)
+* **Project Walkthrough:** [Watch the End-to-End Demo Video]([https://drive.google.com/file/d/14Sj3HztaZISR2XMOXYXaKkhSXGWFX1fU/view?usp=sharing](https://drive.google.com/file/d/1Z4u0o07Xyx3bva-ZTL-_m55NvC-xlmJf/view?usp=sharing)
+* **Documentation:** [Read the Documentation]([https://docs.google.com/document/d/1Imt7QXWJ7TstyxZiPdsfLPxhlVRp2QCYTw5vp-khYaI/edit?usp=sharing](https://docs.google.com/document/d/1FBoggC8QmgDlGjgZF1fCVz09Z_QCAcVelxNUQeCt4kA/edit?usp=sharing)
 
 ## 📋 Project Overview
 This project focuses on transforming raw housing market data into actionable insights through an interactive dashboard and storyboard. The final visualizations are embedded into a web user interface powered by Flask, ensuring the data is both accessible and easy to understand.
@@ -16,10 +16,10 @@ This project focuses on transforming raw housing market data into actionable ins
 
 This project was developed collaboratively, divided into key Agile Epics. Below is the breakdown of team members and their core responsibilities:
 
-* **Arya Batham** * *Data Collection & Extraction:* Responsible for sourcing, collecting, and loading the initial dataset from the database.
-* **Khushi Tomar** * *Data Preparation & Visualization:* Handled data cleaning, ensuring high-quality inputs. Designed the responsive dashboard and generated unique visualizations. Authored the step-by-step project documentation.
-* **Ojasv Singh** * *Web Integration & Storyboard:* Designed the data storyboard, handled web publishing, and embedded the dashboard and stories into a UI using Flask.
-* **Nishant Vishwakarma** * *Performance Testing:* Conducted testing on the amount of data loaded, utilization of filters, and the rendering performance of visualizations and graphs.
+* **Akansha Tyagi** * *Data Collection & Extraction:* Responsible for sourcing, collecting, and loading the initial dataset from the database.
+* **Akriti Jain** * *Data Preparation & Visualization:* Handled data cleaning, ensuring high-quality inputs. Designed the responsive dashboard and generated unique visualizations. Authored the step-by-step project documentation.
+* **Akansha Sharma** * *Web Integration & Storyboard:* Designed the data storyboard, handled web publishing, and embedded the dashboard and stories into a UI using Flask.
+* **Aditya Narayan Dixit** * *Performance Testing:* Conducted testing on the amount of data loaded, utilization of filters, and the rendering performance of visualizations and graphs.
 
 ## 🚀 Project Roadmap & Epics
 
